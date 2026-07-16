@@ -24,7 +24,7 @@ The universal jar contains all modules for all supported platforms.
 You can find everything about the plugin on the [Wiki](https://github.com/NEZNAMY/TAB/wiki). This includes a detailed description
 of all features, as well as information regarding compatibility or limitations of each feature.  
 
-# Issues
+# Issues 
 The [Issues](https://github.com/NEZNAMY/TAB/issues) section is an issue tracker for all the kind of problems covered in issue templates.
 Please refrain from attempting to use it to receive help with your server, such issues will be closed immediately.  
 When opening an issue, provide as much information as possible. The difference between a bug getting fixed in 1 week vs 1 hour
